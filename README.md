@@ -91,6 +91,10 @@ State fees change — legislatures raise them, Secretaries of State revise sched
 
 MIT — see [LICENSE](LICENSE).
 
+## Join the Epic Founder's Club
+Building a company alone is slow. The Epic Founder's Club is Epics Deals' free Discord community for founders — live sessions, Q&As and founders helping founders go global.
+Join free: https://discord.gg/RbmHw9YNYg
+
 ---
 **Free tools by Epics Deals** — [epicsdeals.com](https://epicsdeals.com) · *Your Partner in Global Expansion*
 US LLC formation from **$130 + state fee** · EIN · ITIN · US tax filing · compliance
